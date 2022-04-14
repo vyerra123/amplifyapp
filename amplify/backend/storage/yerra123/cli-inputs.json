@@ -1,0 +1,14 @@
+{
+  "resourceName": "yerra123",
+  "policyUUID": "42b5a237",
+  "bucketName": "reactjsapplication",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

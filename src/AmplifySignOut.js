@@ -1,5 +1,6 @@
 import React from 'react'
 import {Auth} from "aws-amplify";
+import './App.css';
 
 function AmplifySignOut() {
     const signOut = (e) => {
